@@ -1,8 +1,10 @@
 # Themify
 
 [![Build Status](https://api.travis-ci.org/alex88/themify.svg)][travis]
+[![Code Climate](https://codeclimate.com/github/alex88/themify/badges/gpa.svg)][codeclimate]
 
 [travis]: https://travis-ci.org/alex88/themify
+[codeclimate]: https://codeclimate.com/github/alex88/themify
 
 TODO: Write a gem description
 
