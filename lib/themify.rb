@@ -12,6 +12,7 @@ module Themify
   # Adds a template to an internal list of templates
   # Argument must be an instance of Themify::Template
   def self.add_template(template)
+    raise 'Template should be an instance of Themify::Template' unless template.instance_of?(Themify::Template)
     self.templates ||= []
     self.templates << template
   end

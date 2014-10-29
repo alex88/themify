@@ -1,5 +1,9 @@
 # Themify
 
+[![Build Status](https://api.travis-ci.org/alex88/themify.svg)][travis]
+
+[travis]: https://travis-ci.org/alex88/themify
+
 TODO: Write a gem description
 
 ## Installation

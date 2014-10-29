@@ -1,4 +1,5 @@
 require 'active_support/ordered_options'
+require 'rails'
 
 module Themify
   class Railtie < Rails::Engine
